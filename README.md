@@ -1,7 +1,9 @@
-<h1>Hi, I'm Hoang, an <a href="https://linkedin.com/in/hoangdang31">IT Professional</a></h1>
+<h1>Hi, I'm Hoang, a <a href="https://linkedin.com/in/hoangdang31">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Cybersecurity Projects</b>
+  - [Creating a Live Soc/Honeynet in Azure](https://github.com/hoanghuydang/SOC-Honeynet-AAD)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hoanghuydang/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/hoanghuydang/post-install-config)
