@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
-  - [Creating a Live Soc/Honeynet in Azure](https://github.com/hoanghuydang/SOC-Honeynet-AAD)
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/hoanghuydang/SOC-Honeynet-AAD)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hoanghuydang/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/hoanghuydang/post-install-config)
